@@ -44,3 +44,6 @@ Demonstrate all scenarios for visual images.
 
 ### Transfer Network
 Demonstrate the generalization of causality to a host of different network types using a set of adapters.
+
+# Further Work
+If we take two networks where we say they have the same belief about a particular set of priors and we combine them in a complementary fashion, can we be sure that such beliefs survive the transformation? Given the additive nature of such combinations it seems likely this is maintained. Questions may be asked at this point as to whether the combination of such networks is a manner of composing robust representations of complex transfer learning where some material may be complementary, and some may not.
