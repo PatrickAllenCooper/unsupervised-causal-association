@@ -11,6 +11,9 @@ There remains the question which I believe has yet to be solved as to whether th
 
 Further, we should seek to pose the question as to what expression causal belief will take when we traverse latent space representation.
 
+## Two Fundamental Circumstances
+There are two sorts of scenarios where such models are useful. The first corresponds to those environments where we have undefined variables in the environment which cause our knowledge statements to be partial. In such cases, modeling metro timing, etc. we accept that unknowns are responsible for the irregularities of our outcomes. In some simulation contexts however probabilistic statements are just representations of an expression of incomplete information. In such cases, we make use of the uniformity of sampling of some variables to create a subsampling of discrete variables. These can be used to construct distributions which can then be compared to generate insights about the intermediate states of the beliefs of such networks.
+
 # Methodology
 
 We must allow the model to cognize 2 eventual states which are contingent on a singular choice which must be embedded within time. To ensure this happens I propse using a variational autoencoder and based on the beta-VAE architecture, we will then use this arhitecture to devise a novel way to embedd this into the state representation using mutual information as a comparison metric. Solving this will take extensive experimentation.
