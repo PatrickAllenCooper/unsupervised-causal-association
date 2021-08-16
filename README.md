@@ -19,7 +19,7 @@ There are two sorts of scenarios where such models are useful. The first corresp
 We must allow the model to cognize 2 eventual states which are contingent on a singular choice which must be embedded within time. To ensure this happens I propse using a variational autoencoder and based on the beta-VAE architecture, we will then use this arhitecture to devise a novel way to embedd this into the state representation using mutual information as a comparison metric. Solving this will take extensive experimentation.
 
 Perhaps the simplest way to demonstrate this behavior is by using natural language. We will prepare a small set of contrived causal associations and ask the system to generalize.
-While these scenarios are not particularly interestign from a purely experimental perspective, their relevenace for encoding various kinds of knowledge justifies some specific examination.
+While these scenarios are not particularly interesting from a purely experimental perspective, their relevenace for encoding various kinds of knowledge justifies some specific examination.
 
 We can note that these associations are fundamentally discrete. This implies that we must make use of tools to parse the problem in a superior way. That is, by 
 
