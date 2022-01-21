@@ -3,7 +3,7 @@ Can unsupervised networks capture causal associations in a manner that is genera
 
 # Premise
 
-It is no surprise that GPT-3 and large transformer models demonstrate some capability 
+It is no surprise that GPT-3 and large transformer models demonstrate some capability to capture causal associations by virtue of the training data's size itself.
 
 Unsupervised networks have demonstrated stellar capabilities when it comes to capturing spatial or temporal data in visual scenes. It has even been demonstrated that such networks are capable of expressing uncertainty in visual reconstructions.
 
